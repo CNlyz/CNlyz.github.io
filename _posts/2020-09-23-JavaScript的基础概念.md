@@ -1,8 +1,8 @@
 ---
 title: JavaScript的基础概念
-date: 2020-09-23 15:55:00 +0800
+date: 2020-09-24 09:00:00 +0800
 categories: [前端, JavaScript]
-tags: [javascript]     # TAG names should always be lowercase
+tags: [javascript]
 ---
 
 # 编译相关

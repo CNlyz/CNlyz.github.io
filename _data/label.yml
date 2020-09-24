@@ -6,14 +6,14 @@
 
 
 panel:
-  lastmod: "Recent Update"
+  lastmod: "最近更新"
   trending_tags: "相关标签"
-  toc: "Contents"
+  toc: "内容"
 
 post:
   relate_posts: "更多"
   button:
-    next: Newer
-    previous: Older
+    next: 上一篇
+    previous: 下一篇
 
 search_hint: "Search"   # text show on search bar

@@ -20,7 +20,7 @@ url: 'https://CNlyz.github.io'
 
 author: XYLiu                  # change to your full name
 
-data: 2020-09-30 11:30:00 +0800
+time: 2020-09-30 11:30:00 +0800
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
@@ -33,11 +33,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/CNlyz       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: QN70tZ-PhOSdZKqQASSZ6kf53xc6PiNgYjC1vjx_V9o # change to your verification string
 
 #--------------------------
 

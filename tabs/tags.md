@@ -1,5 +1,6 @@
 ---
-title: Tags
+title: 标签
+date: 2020-09-30 12:00:00 +0800
 type: tags
 # All the Tags of posts.
 # v2.0

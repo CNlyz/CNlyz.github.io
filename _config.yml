@@ -13,16 +13,14 @@ title: XYLiu's blog                          # the main title
 tagline: 记录一些生活和工作的心得.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  前端, JavaScript, WebAssembly
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://CNlyz.github.io'
 
 author: XYLiu                  # change to your full name
 
-time: 2020-09-30 11:30:00 +0800
+data: 2020-09-30 11:30:00 +0800
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 

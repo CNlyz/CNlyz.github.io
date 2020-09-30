@@ -6,4 +6,4 @@ tags: [Webassembly]
 ---
 
 # WebAssembly
-![](../assets/img/wasm_load_async.png)
+![](../../assets/img/wasm_load_async.png)
